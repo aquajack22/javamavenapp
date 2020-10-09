@@ -11,7 +11,7 @@ public class App
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("changes to test jenkins git polling");
+        System.out.println(" test jenkins git polling");
         System.out.println(new App().getMessage());
     }
 
